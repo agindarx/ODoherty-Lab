@@ -12,7 +12,6 @@ includes: Morisita_Dist_Code_CSV.py, Morisita_Dist_Code_ExcelFile.py
 **Chi-Square analysis of Venn Diagram**
 
 This project takes two individual's venn diagrams of turnover, and determines if the venn diagrams are differently distributed. Since so much of this program is up to user input, it can be used to also compare two different venn diagrams within an individual (for instance, TCR vs proviruses).
-I can also add additional automation here if needed, but first, examine the automation already done in the next project.
 includes: venndiagramsChiSquare.py
 
 **Automated Chi-Square Analyses**
